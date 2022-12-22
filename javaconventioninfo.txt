@@ -1,0 +1,3 @@
+variables are small in small letter
+java is fundamental programming language
+java is object oriented programming langauge
